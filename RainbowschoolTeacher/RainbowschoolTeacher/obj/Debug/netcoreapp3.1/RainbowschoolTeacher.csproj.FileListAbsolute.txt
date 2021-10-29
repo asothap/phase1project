@@ -1,0 +1,12 @@
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\obj\Debug\netcoreapp3.1\RainbowschoolTeacher.AssemblyInfoInputs.cache
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\obj\Debug\netcoreapp3.1\RainbowschoolTeacher.AssemblyInfo.cs
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\bin\Debug\netcoreapp3.1\RainbowschoolTeacher.exe
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\bin\Debug\netcoreapp3.1\RainbowschoolTeacher.deps.json
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\bin\Debug\netcoreapp3.1\RainbowschoolTeacher.runtimeconfig.json
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\bin\Debug\netcoreapp3.1\RainbowschoolTeacher.runtimeconfig.dev.json
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\bin\Debug\netcoreapp3.1\RainbowschoolTeacher.dll
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\bin\Debug\netcoreapp3.1\RainbowschoolTeacher.pdb
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\obj\Debug\netcoreapp3.1\RainbowschoolTeacher.dll
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\obj\Debug\netcoreapp3.1\RainbowschoolTeacher.pdb
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\bin\Debug\netcoreapp3.1\Data.txt
+C:\Users\asotha_p\source\repos\RainbowschoolTeacher\RainbowschoolTeacher\obj\Debug\netcoreapp3.1\RainbowschoolTeacher.csprojAssemblyReference.cache
